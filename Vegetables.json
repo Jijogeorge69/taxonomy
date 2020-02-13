@@ -1,0 +1,115 @@
+{
+   "vegetables":{
+      "Bulbs":[
+         "Fennel bulb",
+         "Garlic",
+         "Leek",
+         "Oninon",
+         "Shallot",
+         "Spring Onion"
+      ],
+      "Flowers":[
+         "Artichoke – globe",
+         "Broccoflower",
+         "Broccoli",
+         "Broccolini",
+         "Cauliflower white",
+         "Cauliflower green",
+         "Cauliflower purple",
+         "Choi sum (flowering cabbage)",
+         "Courgette",
+         "Gai lan"
+      ],
+      "Fruits":[
+         "Common Buckwheat",
+         "Tartary Buckwheat"
+      ],
+      "Fungi":[
+         "Bitter melon",
+         "Capsicum",
+         "Chilli",
+         "Choko",
+         "Courgette",
+         "Cucumber",
+         "apple",
+         "short",
+         "telegraph",
+         "Lebanese",
+         "Eggplant",
+         "Fuzzy",
+         "Lauki",
+         "Marrow",
+         "Okra",
+         "Plantain",
+         "Pumpkin",
+         "Scallopini",
+         "Spaghetti squash",
+         "Tindora",
+         "Tomatillo",
+         "Tomato",
+         "Turia"
+      ],
+      "Leaves":[
+         "Bok choy",
+         "Brussels sprouts",
+         "Cabbage",
+         "Cabbage red",
+         "Cavolo nero",
+         "Flower sprouts",
+         "Kale and curly kale",
+         "Lettuce",
+         "Ong choi",
+         "Pūhā",
+         "Radicchio",
+         "Silverbeet",
+         "Sorrel",
+         "Spinach",
+         "Taro leaves",
+         "Tat soi",
+         "Tung ho",
+         "Watercress",
+         "Witloof",
+         "Wong nga baak",
+         "Yen choi"
+      ],
+      "Roots":[
+         "Beetroot",
+         "Carrot",
+         "Carrot orange",
+         "Carrot purple",
+         "Carrot white",
+         "Carrot yellow",
+         "Daikon",
+         "Parsley roo",
+         "Parsnip",
+         "Radish",
+         "Salsify root",
+         "Swede",
+         "Turnip"
+      ],
+      "Seeds":[
+         "Farro piccolo",
+         "Farro medio",
+         "Farro grande",
+         "Pearled farro",
+         "Whole-grain farro",
+         "Semi-pearled farro"
+      ],
+      "Stems":[
+         "Asparagus",
+         "Bamboo shoots",
+         "Celery stalks",
+         "Kohlrabi",
+         "Pikopiko"
+      ],
+      "Tubers":[
+         "Cassava",
+         "Earth gems",
+         "Jerusalem artichoke",
+         "Kūmara",
+         "Potatoes",
+         "Taro root",
+         "Yam"
+      ]
+   }
+}

@@ -1,0 +1,110 @@
+{
+   "fruits":{
+      "Simple fruits":{
+         "Dry Fruits":{
+            "Dehiscent Fruit":{
+               "Legume":[
+                  "beans",
+                  "peas"
+               ],
+               "Follicle":[
+                  "larkspur",
+                  "columbine"
+               ],
+               "Capsule":{
+                  "Loculicidal capsule":[
+                     "lilies"
+                  ],
+                  "Septicidal capsule":[
+                     "yucca",
+                     "agave"
+                  ],
+                  "Silique":[
+                     "mustard"
+                  ],
+                  "Silicle":[
+                     "mustard"
+                  ],
+                  "Pyxis":[
+                     "plantain",
+                     "amaramths",
+                     "purslane"
+                  ],
+                  "Poricidal capsule":[
+                     "poppies"
+                  ]
+               }
+            },
+            "Indehiscent Fruit":{
+               "Achene":[
+                  "buttercups",
+                  "dandelion",
+                  "sunflower"
+               ],
+               "Nut":[
+                  "beech",
+                  "chestnut",
+                  "oak",
+                  "hazelnut",
+                  "hickoray"
+               ],
+               "Samara":[
+                  "elm",
+                  "maple",
+                  "ash"
+               ],
+               "Grain":[
+                  "wheat",
+                  "corn",
+                  "grasses"
+               ],
+               "Sehizocarb":[
+                  "mallow",
+                  "wild carrot",
+                  "dill"
+               ]
+            }
+         },
+         "Fleshy Fruits":{
+            "Drupe":[
+               "cherry",
+               "coconut",
+               "walnut",
+               "hickory"
+            ],
+            "Berry":{
+               "grape":[
+
+               ],
+               "banana":[
+
+               ],
+               "gooseberry":[
+
+               ],
+               "Hesperidium":[
+                  "citrus"
+               ],
+               "Pepo":[
+                  "watermelon",
+                  "gourds",
+                  "squash"
+               ]
+            },
+            "Pome":[
+               "apple",
+               "pear",
+               "mountain ash"
+            ]
+         }
+      },
+      "Aggregate Fruit":[
+         "rashberry",
+         "strawberry"
+      ],
+      "Multiple Fruit":[
+         "mulberry",
+         "fig"
+      ]
+   }
+}
