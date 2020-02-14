@@ -1,0 +1,410 @@
+{
+   "Milk":{
+      "Acidified_Half_and_Half":[
+
+      ],
+      "Fluid_Milk_Products":{
+         "Acidophilus":[
+
+         ],
+         "Concentrated":[
+
+         ],
+         "Filled":[
+
+         ],
+         "Flavored":[
+
+         ],
+         "High Nutrient":[
+
+         ],
+         "Imitation":[
+
+         ],
+         "With Lactobacillus Acidophilus Culture":[
+
+         ],
+         "Lactose Reduced":[
+
+         ],
+         "Modified":[
+
+         ],
+         "Whole":[
+
+         ],
+         "Reduced Fat":[
+
+         ],
+         "Low Fat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Half and Half":[
+
+      ],
+      "Milk Drink":[
+
+      ],
+      "Milk Drink Mix":[
+
+      ],
+      "Acidified Buttermilk":[
+
+      ],
+      "Acidified Half and Half Dressing":[
+
+      ],
+      "Buttermilk":[
+
+      ],
+      "Clotted Cream":[
+
+      ],
+      "Condensed Sweetened":{
+         "Milk":[
+
+         ],
+         "LowFat Milk":[
+
+         ],
+         "FatFree Milk":[
+
+         ]
+      },
+      "Condensed Unsweetened":{
+         "Milk":[
+
+         ],
+         "LowFat Milk":[
+
+         ],
+         "FatFree Milk":[
+
+         ]
+      },
+      "Cottage Cheese":{
+         "Acidified":[
+
+         ],
+         "Creamed":[
+
+         ],
+         "Creamed Spread":[
+
+         ],
+         "Lowfat":[
+
+         ],
+         "Fat free":[
+
+         ],
+         "Partially Creamed":[
+
+         ],
+         "Uncreamed":[
+
+         ]
+      },
+      "Cream":{
+         "Acidified Cream":[
+
+         ],
+         "Coffee Cream":[
+
+         ],
+         "Light Cream":[
+
+         ],
+         "Table Cream":[
+
+         ],
+         "Whipping Cream":[
+
+         ]
+      },
+      "Cream Dressing":{
+         "Sour":[
+
+         ],
+         "Acidified Sour":[
+
+         ]
+      },
+      "Eggnog":[
+
+      ],
+      "Evaporated Sweetened":{
+         "Cream":[
+
+         ],
+         "Milk":[
+
+         ],
+         "LowFat Milk":[
+
+         ],
+         "FatFree Milk":[
+
+         ]
+      },
+      "Evaporated Unsweetened":{
+         "Cream":[
+
+         ],
+         "Milk":[
+
+         ],
+         "LowFat Milk":[
+
+         ],
+         "FatFree Milk":[
+
+         ]
+      },
+      "Fromage Fais":{
+         "Lowfat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Hoop Cheese":[
+
+      ],
+      "Kefir":[
+
+      ],
+      "Fruit Kefir":[
+
+      ],
+      "Sour Cream":[
+
+      ],
+      "Light Sour Cream":[
+
+      ],
+      "Sour Flavored Half_and_Half":[
+
+      ],
+      "Sour Half_and_Half Dressing":[
+
+      ],
+      "Ultra High Temperature":[
+
+      ],
+      "Fluid Flavored Milk":{
+         "Whole":[
+
+         ],
+         "Lowfat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Fluid Milk":{
+         "Whole":[
+
+         ],
+         "Lowfat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Half_and_Half":[
+
+      ],
+      "Cream":[
+
+      ],
+      "Dairy Spread":[
+
+      ],
+      "Eggnog":[
+
+      ],
+      "Flavored Cream":[
+
+      ],
+      "Flavored Drink":[
+
+      ],
+      "Lowfat Milk":[
+
+      ],
+      "Milk":[
+
+      ],
+      "Milk Drink Mix":[
+
+      ],
+      "Sour Cream":[
+
+      ],
+      "Sour Flavored Half_and_Half":[
+
+      ],
+      "Ultrapasteurized Half_and_Half":[
+
+      ],
+      "Whipped Cream":[
+
+      ],
+      "Whipped Nonfat Yogurt Topping":[
+
+      ],
+      "Yogurt":{
+         "Flavored":[
+
+         ],
+         "Lowfat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Yogurt Drink":{
+         "Lowfat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Yogurt Sherbet":[
+
+      ],
+      "Frozen Dairy Dessert":{
+         "Mix":[
+
+         ],
+         "Lowfat":[
+
+         ],
+         "Fat Free":[
+
+         ]
+      },
+      "Frozen Yogurt":{
+         "Mix":[
+
+         ],
+         "Lowfat":[
+
+         ],
+         "Nonfat":[
+
+         ]
+      },
+      "Ice Cream":{
+         "Diabetic":[
+
+         ],
+         "Dietetic":[
+
+         ],
+         "Imitation":[
+
+         ],
+         "Mix":[
+
+         ],
+         "Nonfat":[
+
+         ]
+      },
+      "Light Dairy Dessert":[
+
+      ],
+      "Quiescently Frozen Confections":[
+
+      ],
+      "Sherbet":[
+
+      ],
+      "Butter":[
+
+      ],
+      "Dry Buttermilk":[
+
+      ],
+      "Nonfat Dry Milk":[
+
+      ],
+      "Whole Dry Milk":[
+
+      ],
+      "Cheese":{
+         "Bakers":[
+
+         ],
+         "Blue":[
+
+         ],
+         "Brick":[
+
+         ],
+         "Cheddar":[
+
+         ],
+         "Colby":[
+
+         ],
+         "Cream":[
+
+         ],
+         "Full Skim":[
+
+         ],
+         "Gorganzola":[
+
+         ],
+         "Limburger":[
+
+         ],
+         "Monterey Jack":[
+
+         ],
+         "Mozzarella":[
+
+         ],
+         "Muenster":[
+
+         ],
+         "Neufchatel":[
+
+         ],
+         "Parmesan":[
+
+         ],
+         "Part Skim":[
+
+         ],
+         "Provolone":[
+
+         ],
+         "Ricotta":[
+
+         ],
+         "Romano":[
+
+         ],
+         "Swiss":[
+
+         ]
+      },
+      "Dry Modified Whey":[
+
+      ]
+   }
+}
